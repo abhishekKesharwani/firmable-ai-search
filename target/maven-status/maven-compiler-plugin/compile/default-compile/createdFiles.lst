@@ -1,0 +1,17 @@
+com/firmable/aisearch/service/SemanticSearchService.class
+com/firmable/aisearch/service/AutosuggestService$Suggestion.class
+com/firmable/aisearch/controller/SearchController.class
+com/firmable/aisearch/model/ComprehensiveSearchResponse$PaginationInfo.class
+com/firmable/aisearch/service/QueryUnderstandingService$ParsedQuery.class
+com/firmable/aisearch/model/ComprehensiveSearchResponse$QueryInfo.class
+com/firmable/aisearch/service/QueryUnderstandingService.class
+com/firmable/aisearch/controller/SearchController$ComprehensiveSearchRequest.class
+com/firmable/aisearch/model/SearchResponse.class
+com/firmable/aisearch/model/ComprehensiveSearchResponse.class
+com/firmable/aisearch/service/AutosuggestService$AutosuggestResponse.class
+com/firmable/aisearch/service/AutosuggestService.class
+com/firmable/aisearch/model/SearchResult.class
+com/firmable/aisearch/service/SearchService.class
+com/firmable/aisearch/FirmableAiSearchApplication.class
+com/firmable/aisearch/controller/AutosuggestController.class
+com/firmable/aisearch/model/ComprehensiveSearchResponse$SearchMetadata.class
